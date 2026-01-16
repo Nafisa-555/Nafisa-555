@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=TY+BCA+Student;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Space+%26+Astronomy+Enthusiast+%F0%9F%8C%8C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=TY+BCA+Student;Aspiring+Data+Scientist;Space+%26+Astronomy+Enthusiast+%F0%9F%8C%8C" />
 </p>
 
 <!-- Visitor Counter -->
@@ -39,16 +39,15 @@
 
 ## 🚀 Featured Project
 🌍 **NASA Meteorite Landings Analysis**  
-📌 Explore NASA’s Meteorite Landings dataset to find the biggest 
-meteorites, their types, and landing trends over time. 
+📌 Data analysis project based on NASA meteorite landing dataset  
 🔗 Repo: https://github.com/Nafisa-555/meteorite-landings-analysis
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nafisa-555&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafisa-555&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nafisa-555&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafisa-555&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" />
 </p>
 
 ---
@@ -73,13 +72,19 @@ meteorites, their types, and landing trends over time.
 
 ---
 
-## 🐍 Contribution Snake Animation
-<!-- Snake animation (shows your contributions being eaten) -->
-<p align="center">
-  <img src="https://github.com/Nafisa-555/Nafisa-555/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+## 💬 A Small Message from Me
+✨ I genuinely enjoy connecting with new people and learning from different journeys —  
+so if you ever want to say *hi*, collaborate, or just talk about tech & space, I’d love to connect 😊
+
+⭐ If you like my work, feel free to **star** a few repositories — it really supports me ❤️
 
 ---
 
-### 🌌 Quote I Like
-> "You Need A MISSION, Not Motivation." ✨
+### 🧠 Quote I Believe In
+> “You Need A MISSION, Not Motivation.”
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile+%F0%9F%92%9B;Have+a+great+day+ahead+%F0%9F%8C%B8;Keep+learning+%26+keep+growing+%F0%9F%9A%80" />
+</p>
