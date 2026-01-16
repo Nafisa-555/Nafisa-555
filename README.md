@@ -44,17 +44,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Working Alternative ✅)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nafisa-555&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafisa-555&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nafisa-555&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nafisa-555&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nafisa-555&theme=tokyonight" height="170" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nafisa-555&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nafisa-555&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -73,10 +77,10 @@
 ---
 
 ## 💬 A Small Message from Me
-✨ I genuinely enjoy connecting with new people and learning from different journeys —  
-so if you ever want to say *hi*, collaborate, or just talk about tech & space, I’d love to connect 😊
+✨ I truly enjoy connecting with new people and learning from different journeys —  
+so if you ever want to say *hi*, collaborate, or just talk about tech & space, feel free to reach out 😊
 
-⭐ If you like my work, feel free to **star** a few repositories — it really supports me ❤️
+⭐ If you like my work, do consider **starring a few repositories** — it really motivates me ❤️
 
 ---
 
