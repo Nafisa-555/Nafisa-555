@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=TY+BCA+Student+%F0%9F%8E%93;Aspiring+Data+Scientist+%F0%9F%9A%80;Space+%26+Astronomy+Enthusiast+%F0%9F%8C%8C;Google+Cloud+Arcade+Winner+%F0%9F%8F%86;Always+Learning%2C+Always+Growing+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=+BCA+Graduate!+%F0%9F%8E%93;Aspiring+Data+Scientist+%F0%9F%9A%80;Space+%26+Astronomy+Enthusiast+%F0%9F%8C%8C;Google+Cloud+Arcade+Winner+%F0%9F%8F%86;Always+Learning%2C+Always+Growing+%E2%9C%A8" />
 </p>
 
 <!-- Badges Row -->
@@ -21,20 +21,38 @@
 
 ---
 
-## 🌟 About Me
-
-```python
-nafisa = {
-    "degree"     : "TY BCA (Bachelor of Computer Applications)",
-    "role"       : "Aspiring Data Scientist",
-    "passions"   : ["Data Science", "Machine Learning", "Space & Astronomy", "AI"],
-    "learning"   : ["Machine Learning", "Deep Learning", "Advanced Data Analysis"],
-    "achievement": "🏆 Won Google Cloud Arcade Challenge & earned swags 🎁",
-    "motto"      : "You Need A MISSION, Not Motivation."
-}
-```
-
----
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><b>Degree</b></td>
+    <td>TY BCA — Bachelor of Computer Applications</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><b>Role</b></td>
+    <td>Aspiring Data Scientist</td>
+  </tr>
+  <tr>
+    <td>🌌</td>
+    <td><b>Passions</b></td>
+    <td>Data Science &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Space &amp; Astronomy &nbsp;·&nbsp; AI</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><b>Currently Learning</b></td>
+    <td>Machine Learning &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Advanced Data Analysis</td>
+  </tr>
+  <tr>
+    <td>🏆</td>
+    <td><b>Achievement</b></td>
+    <td>Won Google Cloud Arcade Challenge &amp; earned swags 🎁</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td><b>Motto</b></td>
+    <td><i>"You Need A MISSION, Not Motivation."</i></td>
+  </tr>
+</table>
 
 ## 🧰 Tech Stack
 
