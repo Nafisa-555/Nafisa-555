@@ -25,7 +25,7 @@
   <tr>
     <td>🎓</td>
     <td><b>Degree</b></td>
-    <td>TY BCA — Bachelor of Computer Applications</td>
+    <td>Bachelor of Computer Applications</td>
   </tr>
   <tr>
     <td>🚀</td>
@@ -164,10 +164,10 @@
 
 ## 💬 A Message from Me
 
-> ✨ I truly enjoy connecting with new people and learning from different journeys —
+> ✨ I truly enjoy connecting with new people and learning from different journeys -
 > so if you ever want to say *hi*, collaborate, or just talk about **tech & space**, feel free to reach out! 😊
 
-⭐ If you find my work interesting, do consider **starring a few repositories** — it really motivates me ❤️
+⭐ If you find my work interesting, do consider **starring a few repositories** - it really motivates me ❤️
 
 ---
 
