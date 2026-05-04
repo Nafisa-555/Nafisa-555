@@ -177,7 +177,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-> *"You Need To Be Clear About What You Want ☄️<img width="498" height="498" alt="ShootingStarGalaxyGIF" src="https://github.com/user-attachments/assets/e9bc2884-de76-48c2-bfaf-fba0bacb29b0" />
+> *"You Need To Be Clear About What You Want ☄️ <img width="100" height="100" alt="YourNameWallpaperGIF" src="https://github.com/user-attachments/assets/f379b5be-0cb0-4389-b79c-0123ba9170bb" />
+
 "*
 
 ---
