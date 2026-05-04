@@ -155,7 +155,7 @@
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/nafisaelara?igsh=MWMxZTN0NnJoYWFibg==)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -177,7 +177,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-> *"You Need A **MISSION**, Not Motivation."*
+> *"You Need To Be Clear About What You Want ☄️<img width="498" height="498" alt="ShootingStarGalaxyGIF" src="https://github.com/user-attachments/assets/e9bc2884-de76-48c2-bfaf-fba0bacb29b0" />
+"*
 
 ---
 
