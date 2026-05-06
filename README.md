@@ -157,7 +157,7 @@
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="[www.instagram.com/nafisaelara?igsh=MWMxZTN0NnJoYWFibg==](https://www.instagram.com/nafisaelara?igsh=MWMxZTN0NnJoYWFibg==)" target="_blank">
+  <a href="https://www.instagram.com/nafisaelara" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
