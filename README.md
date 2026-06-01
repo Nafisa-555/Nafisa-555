@@ -50,7 +50,7 @@
   <tr>
     <td>💬</td>
     <td><b>Motto</b></td>
-    <td><i>"You Need A MISSION, Not Motivation."</i></td>
+    <td><i><b>"You Need To Be Clear About What You Want"</b></i></td>
   </tr>
 </table>
 
